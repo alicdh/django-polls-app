@@ -1,2 +1,2 @@
-username: admin1
+username: admin
 password: utahstate
